@@ -1,2 +1,3 @@
-# democode
+ democode
 my first project
+ by dinesh
